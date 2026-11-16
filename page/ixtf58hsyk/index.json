@@ -1,0 +1,40 @@
+{
+  "id": "ixtf58hsyk",
+  "name": {
+    "tr": "Semaver",
+    "en": "Samovar",
+    "ar": "السماور"
+  },
+  "description": {
+    "tr": "Masaya semaver ve paket çay siparişi (demo).",
+    "en": "Order a samovar to your table or packed tea (demo).",
+    "ar": "اطلب سماورًا إلى طاولتك أو شايًا معبّأ (تجريبي)."
+  },
+  "keyword": {
+    "tr": "semaver",
+    "en": "samovar",
+    "ar": "سماور"
+  },
+  "path": "teklif-al",
+  "icon": "coffee_maker",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "1r8ohi",
+      "k2bjgc"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Semaver",
+    "en": "Samovar",
+    "ar": "السماور"
+  },
+  "date": "2026-11-16T18:04:29.359Z",
+  "update": "2026-11-16T18:08:25.877Z"
+}

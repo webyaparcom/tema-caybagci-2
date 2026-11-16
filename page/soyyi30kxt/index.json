@@ -1,0 +1,40 @@
+{
+  "id": "soyyi30kxt",
+  "name": {
+    "tr": "İkramlar",
+    "en": "Menu",
+    "ar": "القائمة"
+  },
+  "description": {
+    "tr": "Bahçede sunulanlar ve kurgusal fiyatlar.",
+    "en": "What the gardens serve, with fictional prices.",
+    "ar": "ما تقدّمه الحدائق بأسعار افتراضية."
+  },
+  "keyword": {
+    "tr": "çay, semaver, salep",
+    "en": "tea, samovar, salep",
+    "ar": "شاي، سماور، سحلب"
+  },
+  "path": "hizmetler",
+  "icon": "emoji_food_beverage",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "oxm0v7",
+      "1r8ohi"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "İkramlar",
+    "en": "Menu",
+    "ar": "القائمة"
+  },
+  "date": "2026-11-16T18:04:29.341Z",
+  "update": "2026-11-16T18:08:25.861Z"
+}

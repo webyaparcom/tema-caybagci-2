@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "soyyi30kxt",
+      "name": {
+        "tr": "İkramlar",
+        "en": "Menu",
+        "ar": "القائمة"
+      },
+      "description": {
+        "tr": "Bahçede sunulanlar ve kurgusal fiyatlar.",
+        "en": "What the gardens serve, with fictional prices.",
+        "ar": "ما تقدّمه الحدائق بأسعار افتراضية."
+      },
+      "path": "hizmetler",
+      "icon": "emoji_food_beverage",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "oxm0v7",
+          "1r8ohi"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Bahçeler",
+        "en": "Gardens",
+        "ar": "الحدائق"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "i77mwu",
+          "k2bjgc"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Üç bahçenin hikâyeleri ve doluluk saatleri.",
+        "en": "Stories and busy hours of the three gardens.",
+        "ar": "قصص الحدائق الثلاث وساعات ازدحامها."
+      }
+    },
+    {
+      "id": "8jcyqj64sk",
+      "name": {
+        "tr": "Kartpostal",
+        "en": "Postcards",
+        "ar": "البطاقات"
+      },
+      "description": {
+        "tr": "Ziyaretçilerin bahçeden notları (kurgusal).",
+        "en": "Visitors’ notes from the gardens (fictional).",
+        "ar": "ملاحظات الزوّار من الحدائق (افتراضية)."
+      },
+      "path": "referanslar",
+      "icon": "stars",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "2ql832",
+          "1r8ohi"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "ixtf58hsyk",
+      "name": {
+        "tr": "Semaver",
+        "en": "Samovar",
+        "ar": "السماور"
+      },
+      "description": {
+        "tr": "Masaya semaver ve paket çay siparişi (demo).",
+        "en": "Order a samovar to your table or packed tea (demo).",
+        "ar": "اطلب سماورًا إلى طاولتك أو شايًا معبّأ (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "coffee_maker",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "1r8ohi",
+          "k2bjgc"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "Ulaşım",
+        "en": "Directions",
+        "ar": "الوصول"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "tw3y21",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Üç bahçenin adresleri ve saatleri.",
+        "en": "Addresses and hours of the three gardens.",
+        "ar": "عناوين الحدائق الثلاث وساعاتها."
+      }
+    }
+  ],
+  "desc": []
+}
