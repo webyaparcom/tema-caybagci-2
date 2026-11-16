@@ -1,0 +1,40 @@
+{
+  "id": "8jcyqj64sk",
+  "name": {
+    "tr": "Kartpostal",
+    "en": "Postcards",
+    "ar": "البطاقات"
+  },
+  "description": {
+    "tr": "Ziyaretçilerin bahçeden notları (kurgusal).",
+    "en": "Visitors’ notes from the gardens (fictional).",
+    "ar": "ملاحظات الزوّار من الحدائق (افتراضية)."
+  },
+  "keyword": {
+    "tr": "referans, müşteri yorumu",
+    "en": "reference, review",
+    "ar": "مرجع، تقييم"
+  },
+  "path": "referanslar",
+  "icon": "stars",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "2ql832",
+      "1r8ohi"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kartpostal",
+    "en": "Postcards",
+    "ar": "البطاقات"
+  },
+  "date": "2026-11-16T18:04:29.352Z",
+  "update": "2026-11-16T18:08:25.872Z"
+}

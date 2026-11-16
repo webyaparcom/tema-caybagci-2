@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Semaver Bahçeleri: Rize’de sahilde, kale yamacında ve yaylada üç çay bahçesi. Mevsim bardağı takvimi, bahçe saatleri ve masaya semaver. Demo site; içerik kurgusaldır.",
+    "en": "Semaver Gardens: three tea gardens in Rize, by the sea, on the castle slope and in the highlands. A seasonal cup calendar, garden hours and a samovar at your table. Demo site; content is fictional.",
+    "ar": "حدائق السماور: ثلاث حدائق شاي في ريزه، على الساحل وعلى سفح القلعة وفي الهضبة. تقويم أكواب الموسم وساعات الحدائق وسماور على طاولتك. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "çay bahçesi, semaver, Rize çayı, salep, Rize",
+    "en": "tea garden, samovar, Rize tea, salep, Rize",
+    "ar": "حديقة شاي، سماور، شاي ريزه، سحلب، ريزه"
+  },
+  "category": "Kurumsal",
+  "name": "Semaver Bahçeleri",
+  "domain": "caybagci-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "open-sans",
+    "heading": "lora",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#B84B33",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "13px",
+    "--mx-radius-md": "22px",
+    "--mx-radius-lg": "31px",
+    "--mx-radius-xl": "999px"
+  },
+  "icon": "icon.png"
+}

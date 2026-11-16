@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Bahçeler",
+    "en": "Gardens",
+    "ar": "الحدائق"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "i77mwu",
+      "k2bjgc"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Üç bahçenin hikâyeleri ve doluluk saatleri.",
+    "en": "Stories and busy hours of the three gardens.",
+    "ar": "قصص الحدائق الثلاث وساعات ازدحامها."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Bahçeler",
+    "en": "Gardens",
+    "ar": "الحدائق"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T18:08:25.868Z",
+  "date": "2026-10-30"
+}
