@@ -4,12 +4,16 @@
   "description": {
     "tr": "Semaver Bahçeleri: Rize’de sahilde, kale yamacında ve yaylada üç çay bahçesi. Mevsim bardağı takvimi, bahçe saatleri ve masaya semaver. Demo site; içerik kurgusaldır.",
     "en": "Semaver Gardens: three tea gardens in Rize, by the sea, on the castle slope and in the highlands. A seasonal cup calendar, garden hours and a samovar at your table. Demo site; content is fictional.",
-    "ar": "حدائق السماور: ثلاث حدائق شاي في ريزه، على الساحل وعلى سفح القلعة وفي الهضبة. تقويم أكواب الموسم وساعات الحدائق وسماور على طاولتك. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "حدائق السماور: ثلاث حدائق شاي في ريزه، على الساحل وعلى سفح القلعة وفي الهضبة. تقويم أكواب الموسم وساعات الحدائق وسماور على طاولتك. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Semaver Bahçeleri: drei Teegärten in Rize, am Strand, am Burghang und auf der Hochalm. Saisonaler Gläserkalender, Gartenzeiten und Samowar am Tisch. Demo-Website; Inhalte sind fiktiv.",
+    "ru": "Semaver Bahçeleri: три чайных сада в Ризе — на побережье, на склоне крепости и на яйле. Календарь сезонных стаканов, часы работы садов и самовар на столе. Демо-сайт; содержимое вымышленное."
   },
   "keyword": {
     "tr": "çay bahçesi, semaver, Rize çayı, salep, Rize",
     "en": "tea garden, samovar, Rize tea, salep, Rize",
-    "ar": "حديقة شاي، سماور، شاي ريزه، سحلب، ريزه"
+    "ar": "حديقة شاي، سماور، شاي ريزه، سحلب، ريزه",
+    "de": "Teegarten, Samowar, Rize-Tee, Salep, Rize",
+    "ru": "чайный сад, самовар, чай Ризе, салеб, Ризе"
   },
   "category": "Kurumsal",
   "name": "Semaver Bahçeleri",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

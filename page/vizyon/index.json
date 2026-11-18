@@ -3,17 +3,23 @@
   "name": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "description": {
     "tr": "Vizyonumuz",
     "en": "Our vision",
-    "ar": "رؤيتنا"
+    "ar": "رؤيتنا",
+    "de": "Unsere Vision",
+    "ru": "Наше видение"
   },
   "keyword": {
     "tr": "Vizyon",
     "en": "vision, our vision, goals",
-    "ar": "الرؤية, رؤيتنا, الأهداف"
+    "ar": "الرؤية, رؤيتنا, الأهداف",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "path": "vizyon",
   "icon": "visibility",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Vizyonumuz</h2>\n<p>Karadeniz’in üç manzarasında, herkesin semaver başında buluştuğu bahçeler olmak.</p>",
     "en": "<h2>Our vision</h2>\n<p>To be the gardens where everyone meets around a samovar, at three Black Sea views.</p>",
-    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون الحدائق التي يلتقي فيها الجميع حول السماور، في ثلاث إطلالات على البحر الأسود.</p>"
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون الحدائق التي يلتقي فيها الجميع حول السماور، في ثلاث إطلالات على البحر الأسود.</p>",
+    "de": "<h2>Unsere Vision</h2>\n<p>Gärten an den drei Aussichten der Schwarzmeerküste zu sein, in denen sich alle am Samowar treffen.</p>",
+    "ru": "<h2>Наше видение</h2>\n<p>Быть садами с тремя видами на Чёрное море, где все собираются у самовара.</p>"
   },
   "title": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "date": "2026-11-16T18:04:29.196Z",
   "update": "2026-11-16T18:08:25.888Z",

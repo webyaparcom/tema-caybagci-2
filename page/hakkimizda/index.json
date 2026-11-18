@@ -2,7 +2,9 @@
   "name": {
     "tr": "Bahçeler",
     "en": "Gardens",
-    "ar": "الحدائق"
+    "ar": "الحدائق",
+    "de": "Gärten",
+    "ru": "Сады"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Üç bahçenin hikâyeleri ve doluluk saatleri.",
     "en": "Stories and busy hours of the three gardens.",
-    "ar": "قصص الحدائق الثلاث وساعات ازدحامها."
+    "ar": "قصص الحدائق الثلاث وساعات ازدحامها.",
+    "de": "Geschichten und Stoßzeiten der drei Gärten.",
+    "ru": "Истории и часы пиковой нагрузки трёх садов."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Bahçeler",
     "en": "Gardens",
-    "ar": "الحدائق"
+    "ar": "الحدائق",
+    "de": "Gärten",
+    "ru": "Сады"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T18:08:25.868Z",

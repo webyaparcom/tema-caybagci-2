@@ -5,12 +5,16 @@
       "name": {
         "tr": "İkramlar",
         "en": "Menu",
-        "ar": "القائمة"
+        "ar": "القائمة",
+        "de": "Speisekarte",
+        "ru": "Меню"
       },
       "description": {
         "tr": "Bahçede sunulanlar ve kurgusal fiyatlar.",
         "en": "What the gardens serve, with fictional prices.",
-        "ar": "ما تقدّمه الحدائق بأسعار افتراضية."
+        "ar": "ما تقدّمه الحدائق بأسعار افتراضية.",
+        "de": "Das Angebot im Garten und fiktive Preise.",
+        "ru": "Что предлагается в саду, и вымышленные цены."
       },
       "path": "hizmetler",
       "icon": "emoji_food_beverage",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Bahçeler",
         "en": "Gardens",
-        "ar": "الحدائق"
+        "ar": "الحدائق",
+        "de": "Gärten",
+        "ru": "Сады"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,7 +57,9 @@
       "description": {
         "tr": "Üç bahçenin hikâyeleri ve doluluk saatleri.",
         "en": "Stories and busy hours of the three gardens.",
-        "ar": "قصص الحدائق الثلاث وساعات ازدحامها."
+        "ar": "قصص الحدائق الثلاث وساعات ازدحامها.",
+        "de": "Geschichten und Stoßzeiten der drei Gärten.",
+        "ru": "Истории и часы пиковой нагрузки трёх садов."
       }
     },
     {
@@ -59,12 +67,16 @@
       "name": {
         "tr": "Kartpostal",
         "en": "Postcards",
-        "ar": "البطاقات"
+        "ar": "البطاقات",
+        "de": "Postkarten",
+        "ru": "Открытки"
       },
       "description": {
         "tr": "Ziyaretçilerin bahçeden notları (kurgusal).",
         "en": "Visitors’ notes from the gardens (fictional).",
-        "ar": "ملاحظات الزوّار من الحدائق (افتراضية)."
+        "ar": "ملاحظات الزوّار من الحدائق (افتراضية).",
+        "de": "Notizen der Besucher aus den Gärten (fiktiv).",
+        "ru": "Заметки посетителей из садов (вымышленные)."
       },
       "path": "referanslar",
       "icon": "stars",
@@ -85,12 +97,16 @@
       "name": {
         "tr": "Semaver",
         "en": "Samovar",
-        "ar": "السماور"
+        "ar": "السماور",
+        "de": "Samowar",
+        "ru": "Самовар"
       },
       "description": {
         "tr": "Masaya semaver ve paket çay siparişi (demo).",
         "en": "Order a samovar to your table or packed tea (demo).",
-        "ar": "اطلب سماورًا إلى طاولتك أو شايًا معبّأ (تجريبي)."
+        "ar": "اطلب سماورًا إلى طاولتك أو شايًا معبّأ (تجريبي).",
+        "de": "Bestellung von Samowar und Packungstee an den Tisch (Demo).",
+        "ru": "Заказ самовара и пачкового чая к столу (демо)."
       },
       "path": "teklif-al",
       "icon": "coffee_maker",
@@ -110,7 +126,9 @@
       "name": {
         "tr": "Ulaşım",
         "en": "Directions",
-        "ar": "الوصول"
+        "ar": "الوصول",
+        "de": "Anfahrt",
+        "ru": "Проезд"
       },
       "status": "play",
       "id": "iletisim",
@@ -131,7 +149,9 @@
       "description": {
         "tr": "Üç bahçenin adresleri ve saatleri.",
         "en": "Addresses and hours of the three gardens.",
-        "ar": "عناوين الحدائق الثلاث وساعاتها."
+        "ar": "عناوين الحدائق الثلاث وساعاتها.",
+        "de": "Adressen und Öffnungszeiten der drei Gärten.",
+        "ru": "Адреса и часы работы трёх садов."
       }
     }
   ],
