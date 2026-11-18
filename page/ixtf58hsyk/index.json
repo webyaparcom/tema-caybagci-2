@@ -3,17 +3,23 @@
   "name": {
     "tr": "Semaver",
     "en": "Samovar",
-    "ar": "السماور"
+    "ar": "السماور",
+    "de": "Samowar",
+    "ru": "Самовар"
   },
   "description": {
     "tr": "Masaya semaver ve paket çay siparişi (demo).",
     "en": "Order a samovar to your table or packed tea (demo).",
-    "ar": "اطلب سماورًا إلى طاولتك أو شايًا معبّأ (تجريبي)."
+    "ar": "اطلب سماورًا إلى طاولتك أو شايًا معبّأ (تجريبي).",
+    "de": "Bestellung von Samowar und Packungstee an den Tisch (Demo).",
+    "ru": "Заказ самовара и пачкового чая к столу (демо)."
   },
   "keyword": {
     "tr": "semaver",
     "en": "samovar",
-    "ar": "سماور"
+    "ar": "سماور",
+    "de": "Samowar",
+    "ru": "самовар"
   },
   "path": "teklif-al",
   "icon": "coffee_maker",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Semaver",
     "en": "Samovar",
-    "ar": "السماور"
+    "ar": "السماور",
+    "de": "Samowar",
+    "ru": "Самовар"
   },
   "date": "2026-11-16T18:04:29.359Z",
   "update": "2026-11-16T18:08:25.877Z"

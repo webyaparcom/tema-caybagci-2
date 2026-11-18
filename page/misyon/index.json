@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Çayı bahçesinde, taze demlenmiş ve ince belli bardakta sunmak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To serve tea in the garden, freshly brewed, in a tulip glass.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>أن نقدّم الشاي في الحديقة، طازج التخمير، في كوب الخصر النحيل.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>أن نقدّم الشاي في الحديقة، طازج التخمير، في كوب الخصر النحيل.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Tee im Garten servieren, frisch aufgebrüht und im taillierten Glas.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Подавать чай в саду, свежезаваренный и в стаканчике-армуду.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T18:04:29.196Z",
   "update": "2026-11-16T18:08:25.886Z",

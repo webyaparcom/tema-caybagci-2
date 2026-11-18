@@ -2,7 +2,9 @@
   "name": {
     "tr": "Ulaşım",
     "en": "Directions",
-    "ar": "الوصول"
+    "ar": "الوصول",
+    "de": "Anfahrt",
+    "ru": "Проезд"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Üç bahçenin adresleri ve saatleri.",
     "en": "Addresses and hours of the three gardens.",
-    "ar": "عناوين الحدائق الثلاث وساعاتها."
+    "ar": "عناوين الحدائق الثلاث وساعاتها.",
+    "de": "Adressen und Öffnungszeiten der drei Gärten.",
+    "ru": "Адреса и часы работы трёх садов."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Ulaşım",
     "en": "Directions",
-    "ar": "الوصول"
+    "ar": "الوصول",
+    "de": "Anfahrt",
+    "ru": "Проезд"
   },
   "keyword": {
     "tr": "iletişim",
     "en": "contact",
-    "ar": "اتصال"
+    "ar": "اتصال",
+    "de": "Kontakt",
+    "ru": "контакты"
   },
   "text": {},
   "update": "2026-11-16T18:08:25.881Z",

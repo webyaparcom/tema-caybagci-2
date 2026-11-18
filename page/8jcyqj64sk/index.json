@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kartpostal",
     "en": "Postcards",
-    "ar": "البطاقات"
+    "ar": "البطاقات",
+    "de": "Postkarten",
+    "ru": "Открытки"
   },
   "description": {
     "tr": "Ziyaretçilerin bahçeden notları (kurgusal).",
     "en": "Visitors’ notes from the gardens (fictional).",
-    "ar": "ملاحظات الزوّار من الحدائق (افتراضية)."
+    "ar": "ملاحظات الزوّار من الحدائق (افتراضية).",
+    "de": "Notizen der Besucher aus den Gärten (fiktiv).",
+    "ru": "Заметки посетителей из садов (вымышленные)."
   },
   "keyword": {
     "tr": "referans, müşteri yorumu",
     "en": "reference, review",
-    "ar": "مرجع، تقييم"
+    "ar": "مرجع، تقييم",
+    "de": "Referenz, Kundenbewertung",
+    "ru": "рекомендация, отзыв клиента"
   },
   "path": "referanslar",
   "icon": "stars",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Kartpostal",
     "en": "Postcards",
-    "ar": "البطاقات"
+    "ar": "البطاقات",
+    "de": "Postkarten",
+    "ru": "Открытки"
   },
   "date": "2026-11-16T18:04:29.352Z",
   "update": "2026-11-16T18:08:25.872Z"
